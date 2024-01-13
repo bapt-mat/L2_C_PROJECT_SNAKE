@@ -1,21 +1,21 @@
 ###########################
 
---Projet de Programmation--
+--Programming Project--
 
 ###########################
 
-Objectif : Programmer un snake avec des fonctionnalités supplémentaires.
+Goal: Program a snake with extra features.
 
-Comment jouer :
+How to play:
 
-	- Ouvrir le terminal dans l'emplacement de ce fichier
-	- Entrer la commande 'make'
-	- Entrer la commande './snake'
-	- Amusez-vous !
+	- Open the terminal in the location of this file
+	- Enter the 'make' command
+	- Enter command './snake
+	- Have fun!
 
 ##########################
 
-Contenu externe utilisé :
+External content used :
 
 Images :
 
@@ -23,17 +23,17 @@ Images :
        - https://www.textstudio.fr/logo/texte-rose-et-jaune-301
        - https://www.textstudio.fr/logo/texte-3d-retro-wave-vintage-25
 
-Musique :
+Music :
 
        - https://youtu.be/Cjp6RVrOOW0
 
-Bibliothèque :
+Library :
 
        - http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/index.html
 
 ##########################
 
-Par :
+By :
 
 Baptiste Mathevon
 Baptiste Bouvier
